@@ -14,5 +14,5 @@
  - Vitor Kogawa
  - Paulo 
  - Geisianne
- - Alessandra
+ - Alessandra Souza
  - Kaique
