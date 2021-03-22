@@ -12,7 +12,7 @@
 
 ## Integrantes
  - Vitor Kogawa
- - Paulo 
+ - Paulo Henrique
  - Geisianne
  - Alessandra Souza
  - Kaique
