@@ -5,7 +5,7 @@
  - Angular
  - Sequelize
  - HTML
- - CSS
+ - CSSclear
  - Javascript
  - MySQL
  - Express.js
@@ -15,4 +15,4 @@
  - Paulo Henrique
  - Geisianne
  - Alessandra Souza
- - Kaique
+ - Kaique Martins
