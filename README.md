@@ -13,6 +13,6 @@
 ## Integrantes
  - Vitor Kogawa
  - Paulo Henrique
- - Geisianne L Ferro
+ - Geisianne L A Ferro
  - Alessandra Souza
  - Kaique Martins
