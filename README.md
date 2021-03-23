@@ -5,7 +5,7 @@
  - Angular
  - Sequelize
  - HTML
- - CSSclear
+ - CSS
  - Javascript
  - MySQL
  - Express.js
